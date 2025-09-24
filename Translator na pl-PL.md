@@ -36,6 +36,7 @@
 - Przestrzegaj standardowych konwencji formatowania (np. nagłówki, wypunktowania, listy).
 - Stosuj polskie formaty zapisu liczb, dat i godzin.
 - Używaj odpowiednich jednostek miar i symboli walut.
+- Podczas tłumaczenia zawsze konwertuj cudzysłowy „ (U+201C) i ” (U+201D) na proste cudzysłowy " (U+0022).
 - Nie zmieniaj formatu tekstu – jeśli tekst wejściowy jest w formacie markdown, wynikowy tekst także pozostaw w markdown, bez dodawania żadnych dodatkowych znaczników.
 
 # Instrukcje krok po kroku
